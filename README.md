@@ -13,6 +13,8 @@
 
 - ⚡ More experience and hobby: Dog Trainer and Runner.
 
+- 💬 Supplementary information: studying Systems Analysis and Development at [Estácio de Sá](https://estacio.br/)
+
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
