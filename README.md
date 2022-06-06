@@ -5,9 +5,9 @@
 
 - 🔥 Student Web Developer.
 
-- 🔭 I’m currently working at [Marinha do Brasil](https://github.com/brazilian-navy).
+- 🔭 I’m currently working at Dog Trainer.
 
-- 🌱 I'm currently learning Node.js at [Rocketseat](https://github.com/Rocketseat).
+- 🌱 I'm currently learning DevWeb at [Rocketseat](https://github.com/Rocketseat).
 
 - 🤔 I’m looking for help with FullStack Development.
 
