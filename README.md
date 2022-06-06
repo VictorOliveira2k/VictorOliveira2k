@@ -43,9 +43,6 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://www.facebook.com/profile.php?id=100005098389130" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-VictorOliveira-05122A?style=flat&logo=facebook" alt="codepen"/>
-</a>
 <a href="https://linkedin.com/in/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-VictorOliveira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
